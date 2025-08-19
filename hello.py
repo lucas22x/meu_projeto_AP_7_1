@@ -1,6 +1,6 @@
-
+mensagem = 'ola' 
 mensagem = 'oi git'
-
+mensagem = 'oi,OI'
 print(mensagem)
 
 print('21222222222222')
