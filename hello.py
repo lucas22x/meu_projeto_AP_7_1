@@ -1,4 +1,3 @@
-print('oi git,OI')
 
 mensagem = 'oi git'
 
