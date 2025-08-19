@@ -2,4 +2,9 @@
 mensagem = 'novo teste'
 print(mensagem)
 
-print('123')
+
+def saudacao(nome):
+    print(f'Olá, {nome}!')
+
+saudacao('João')
+
