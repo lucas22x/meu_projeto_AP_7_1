@@ -1,5 +1,5 @@
 mensagem = 'ola' 
-mensagem = 'oi git'
+mensagem = 'como vai?'
 mensagem = 'oi,OI'
 print(mensagem)
 
