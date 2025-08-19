@@ -6,4 +6,7 @@ print(mensagem)
 
 print('21222222222222')
 
+mensagem = '21222222222222'
+print(mensagem)
+
 # cd "C:\1_EstudosPython\codigos_AP\7.1- Git e GitHub\meu_projeto_AP_7_1"
