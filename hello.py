@@ -12,6 +12,6 @@ mensagem = 'novo teste'
 
 print(mensagem)
 
-
+print('nova entrada')
 
 # cd "C:\1_EstudosPython\codigos_AP\7.1- Git e GitHub\meu_projeto_AP_7_1"
